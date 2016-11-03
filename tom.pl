@@ -1,7 +1,7 @@
 #!/usr/bin/env perl 
 
-u  gse warnings;
+ud d dgdsfe warnings;
 
 #Do stuff
 
-print "hi";
+print "heeeedi";

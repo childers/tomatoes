@@ -1,5 +1,7 @@
 #!/usr/bin/env perl 
 
-use warnings;
+u  gse warnings;
 
 #Do stuff
+
+print "hi";
